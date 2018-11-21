@@ -1,3 +1,23 @@
+[TOC]
+
+## 3.5 面向连接的传输：TCP
+
+>  duplex： 双工  overwhelm 淹没
+>
+> p70
+
+
+
+
+
+
+
+# Chapter 3 传输层
+
+
+
+
+
 # Chapter 4 网络层
 
 ## 4.1 introduction
